@@ -1,0 +1,2 @@
+include ':app', ':taptargetview2'
+rootProject.name='TapTargetView'
